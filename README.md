@@ -105,7 +105,9 @@ const textAboutError = ...
 const mainDivOnPage ...;
 ```
 
-## Conclusion (заключение)
+Выгрузи текущую версию своего приложения и сделай pull request.
+
+## Conclusion
 
 После выполнения всех релизов открой файл `check-your-code.js` из текущей папки и сравни своё решение с эталонным.
 
